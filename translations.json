@@ -1,0 +1,1574 @@
+{
+  "header.about": {
+    "es": "Sobre nosotros",
+    "en": "About us"
+  },
+  "header.suscribete": {
+    "es": "Suscribete",
+    "en": "Subscribe"
+  },
+  "header.contactanos": {
+    "es": "Contáctanos",
+    "en": "Contact us"
+  },
+  "header.help": {
+    "es": "Ayuda",
+    "en": "Help"
+  },
+  "header.download": {
+    "es": "Descargar App",
+    "en": "Download App"
+  },
+  "header.login": {
+    "es": "Iniciar Sesión",
+    "en": "Log In"
+  },
+  "header.comingSoon": {
+    "es": "Próximamente",
+    "en": "Coming Soon"
+  },
+  "header.comingSoonDesc": {
+    "es": "Esta función estará disponible muy pronto.",
+    "en": "This feature will be available very soon."
+  },
+  "header.dialogTitle1": {
+    "es": "¡Pide",
+    "en": "Order"
+  },
+  "header.dialogDifferent": {
+    "es": "diferente",
+    "en": "differently"
+  },
+  "header.dialogMore": {
+    "es": "más",
+    "en": "more"
+  },
+  "header.dialogHuman": {
+    "es": "humano",
+    "en": "human"
+  },
+  "header.dialogDirect": {
+    "es": "directo",
+    "en": "direct"
+  },
+  "header.dialogOrderWith": {
+    "es": "Pide con...",
+    "en": "Order with..."
+  },
+  "header.needHelp": {
+    "es": "¿Necesitas ayuda?",
+    "en": "Need help?"
+  },
+  "header.changeTheme": {
+    "es": "Cambiar tema",
+    "en": "Change theme"
+  },
+  "header.home": {
+    "es": "Inicio",
+    "en": "Home"
+  },
+  "header.commerce": {
+    "es": "Comercio",
+    "en": "Commerce"
+  },
+  "header.joinFudgo": {
+    "es": "Iniciar Sesión",
+    "en": "Log In"
+  },
+  "header.techSupport": {
+    "es": "Soporte Técnico",
+    "en": "Technical Support"
+  },
+  "header.contact": {
+    "es": "Contacto",
+    "en": "Contact"
+  },
+  "header.affiliateCommerce": {
+    "es": "Afilia Comercio",
+    "en": "Affiliate Business"
+  },
+  "footer.tagline": {
+    "es": "La nueva forma de pedir lo que te gusta",
+    "en": "The new way to order what you love"
+  },
+  "footer.links": {
+    "es": "Enlaces",
+    "en": "Links"
+  },
+  "footer.home": {
+    "es": "Inicio",
+    "en": "Home"
+  },
+  "footer.affiliate": {
+    "es": "Afíliate",
+    "en": "Affiliate"
+  },
+  "footer.aboutUs": {
+    "es": "Sobre Nosotros",
+    "en": "About Us"
+  },
+  "footer.contact": {
+    "es": "Contacto",
+    "en": "Contact"
+  },
+  "footer.legal": {
+    "es": "Legal",
+    "en": "Legal"
+  },
+  "footer.privacy": {
+    "es": "Políticas de Privacidad",
+    "en": "Privacy Policy"
+  },
+  "footer.terms": {
+    "es": "Términos y Condiciones",
+    "en": "Terms & Conditions"
+  },
+  "footer.contactTitle": {
+    "es": "Contacto",
+    "en": "Contact"
+  },
+  "footer.developedBy": {
+    "es": "Desarrollado por Oliver Peña",
+    "en": "Developed by Oliver Peña"
+  },
+  "download.appStore": {
+    "es": "App Store - Muy Pronto",
+    "en": "App Store - Coming Soon"
+  },
+  "download.googlePlay": {
+    "es": "Google Play - Muy Pronto",
+    "en": "Google Play - Coming Soon"
+  },
+  "theme.toggle": {
+    "es": "Cambiar tema",
+    "en": "Toggle theme"
+  },
+  "index.hero.badge": {
+    "es": "Descarga",
+    "en": "Download"
+  },
+  "index.hero.line1": {
+    "es": "Pide diferente",
+    "en": "Order differently"
+  },
+  "index.hero.line2": {
+    "es": "+ Humano",
+    "en": "+ Human"
+  },
+  "index.hero.line3": {
+    "es": "+ Directo",
+    "en": "+ Direct"
+  },
+  "index.hero.line4": {
+    "es": "Ahora Pide...",
+    "en": "Now Order with..."
+  },
+  "index.hero.subtitle": {
+    "es": "La mejor forma de pedir tus alimentos: directo desde tu comercio favorito, sin intermediarios.",
+    "en": "The best way to order your food: directly from your favorite business, no middlemen."
+  },
+  "index.hero2.badge": {
+    "es": "Comercio",
+    "en": "Business"
+  },
+  "index.hero2.line1": {
+    "es": "Pensándolo bien,",
+    "en": "On second thought,"
+  },
+  "index.hero2.line2": {
+    "es": "prefiero... ",
+    "en": "I prefer... "
+  },
+  "index.hero2.subtitle": {
+    "es": "Haz crecer tu negocio conectándote directamente con tus clientes. Comisiones justas, más ganancias, más control.",
+    "en": "Grow your business by connecting directly with your customers. Fair commissions, more earnings, more control."
+  },
+  "index.hero2.cta": {
+    "es": "Afíliate Ahora",
+    "en": "Join Now"
+  },
+  "index.whatIs.title": {
+    "es": "¿Qué es",
+    "en": "What is"
+  },
+  "index.whatIs.subtitle": {
+    "es": "Es tu app para pedir diferente.",
+    "en": "Is your app to order differently."
+  },
+  "index.whatIs.desc": {
+    "es": "Descubre los mejores comercios, explora sus menús, ordena directamente y conecta con ellos.\nAhora pide sin intermediarios: ¡de ellos a ti!",
+    "en": "Discover the best businesses, explore their menus, order directly and connect with them.\nNow order without middlemen: from them to you!"
+  },
+  "index.whatIs.canDo": {
+    "es": "Con",
+    "en": "With"
+  },
+  "index.whatIs.item9": {
+    "es": "Ver el estado de tu pedido",
+    "en": "Track the status of your order"
+  },
+  "index.whatIs.item6": {
+    "es": "Reservar tu mesa desde la app",
+    "en": "Book a table through the app"
+  },
+  "index.whatIs.item7": {
+    "es": "Pedir en el local con menú digital (QR)",
+    "en": "Order in-store using a digital menu (QR)"
+  },
+  "index.whatIs.item2": {
+    "es": "Explorar menús, promociones y cupones",
+    "en": "Explore menus, deals, and coupons"
+  },
+  "index.whatIs.item10": {
+    "es": "Conocer eventos especiales diferentes",
+    "en": "Discover unique special events"
+  },
+  "index.whatIs.item1": {
+    "es": "Descubrir productos y comercios cerca de ti",
+    "en": "Discover nearby products and businesses"
+  },
+  "index.whatIs.item3": {
+    "es": "Aprovechar programas de lealtad por comercio",
+    "en": "Enjoy loyalty programs offered by each business"
+  },
+  "index.whatIs.item4": {
+    "es": "Hacer multipedidos cuando todos quieren algo distinto",
+    "en": "Place multiple orders when everyone wants something different"
+  },
+  "index.whatIs.item8": {
+    "es": "Pagar en efectivo y con tarjeta de crédito o débito en línea",
+    "en": "Pay online by credit or debit card, or in cash"
+  },
+  "index.whatIs.item5": {
+    "es": "Acceder a sus datos personales almacenados en nuestra plataforma",
+    "en": "Access your personal data stored on our platform"
+  },
+  "index.badge.direct": {
+    "es": "+ Directo",
+    "en": "+ Direct"
+  },
+  "index.badge.human": {
+    "es": "+ Humano",
+    "en": "+ Human"
+  },
+  "index.badge.orderWith": {
+    "es": "Pide con...",
+    "en": "Order with..."
+  },
+  "index.features.label": {
+    "es": "Ventajas para Ti",
+    "en": "Benefits for You"
+  },
+  "index.features.title": {
+    "es": "Lo que hace a",
+    "en": "What makes"
+  },
+  "index.features.title2": {
+    "es": "diferente",
+    "en": "different"
+  },
+  "index.features.subtitle1": {
+    "es": "En",
+    "en": "At"
+  },
+  "index.features.subtitle3": {
+    "es": "Pedir diferente se siente mejor y se nota en esto:",
+    "en": "Ordering differently feels better and it shows in this:"
+  },
+  "index.feat.price.title": {
+    "es": "Mismos precios que en el local",
+    "en": "Same prices as in-store"
+  },
+  "index.feat.price.desc": {
+    "es": "Los comercios mantienen exactamente los mismos precios que ves en su establecimiento. En otras palabras, no pagas más por pedir en Fudgo",
+    "en": "Businesses maintain exactly the same prices you see in their store. In other words, you don't pay more for ordering on Fudgo"
+  },
+  "index.feat.direct.title": {
+    "es": "Tu comida sin intermediarios",
+    "en": "Your food without middlemen"
+  },
+  "index.feat.direct.desc": {
+    "es": "Aquí pides más humano y más directo. El comercio gestiona sus pedidos y entregas, así que hay menos pasos entre tú y tu comida.",
+    "en": "Here you order more human and more direct. The business manages their orders and deliveries, so there are fewer steps between you and your food."
+  },
+  "index.feat.multi.title": {
+    "es": "Multipedidos",
+    "en": "Multi-orders"
+  },
+  "index.feat.multi.desc": {
+    "es": "Si están en casa o en la oficina y cada quien quiere algo distinto, pueden pedir de varios comercios en un solo pedido y con un solo pago.",
+    "en": "If you're at home or the office and everyone wants something different, you can order from multiple businesses in a single order with a single payment."
+  },
+  "index.feat.reserve.title": {
+    "es": "Reserva de mesas",
+    "en": "Table reservations"
+  },
+  "index.feat.reserve.desc": {
+    "es": "Además de pedir a domicilio o para recoger, también puedes reservar tu mesa desde la app, sin llamadas ni trámites.",
+    "en": "In addition to ordering delivery or takeout, you can also reserve your table from the app, no calls or paperwork."
+  },
+  "index.feat.cost.title": {
+    "es": "Costos más bajos para los comercios",
+    "en": "Lower costs for businesses"
+  },
+  "index.feat.cost.desc": {
+    "es": "Los comercios pagan menos por vender en Fudgo, y eso se traduce en algo simple: mejores precios y mejor servicio para ti.",
+    "en": "Businesses pay less to sell on Fudgo, and that translates into something simple: better prices and better service for you."
+  },
+  "index.feat.cost.desc2": {
+    "es": "y eso se traduce en algo simple: mejores precios y mejor servicio para ti.",
+    "en": "and that translates into something simple: better prices and better service for you."
+  },
+  "index.feat.chat.title": {
+    "es": "Trato directo entre comercio y cliente",
+    "en": "Direct business-to-customer communication"
+  },
+  "index.feat.chat.desc": {
+    "es": "La comunicación es más clara y rápida. El comercio sabe exactamente lo que necesitas y tú recibes una atención más personalizada. Más humano. Más directo. Más",
+    "en": "Communication is clearer and faster. The business knows exactly what you need and you receive more personalized attention. More human. More direct. More"
+  },
+  "index.feat.promo.title": {
+    "es": "Promos y cupones",
+    "en": "Promos and coupons"
+  },
+  "index.feat.promo.desc": {
+    "es": "Aprovecha descuentos reales sin complicarte. Aplica cupones en tu pedido y descubre promociones activas en tus comercios favoritos, todo desde la app y sin letras pequeñas.",
+    "en": "Take advantage of real discounts without complications. Apply coupons to your order and discover active promotions at your favorite businesses, all from the app with no fine print."
+  },
+  "index.feat.loyalty.title": {
+    "es": "Programa de lealtad",
+    "en": "Loyalty program"
+  },
+  "index.feat.loyalty.desc": {
+    "es": "Pedir en Fudgo se vuelve recompensa. Acumula beneficios por tus compras y canjéalos en tus comercios preferidos. Más constancia, más valor para ti.",
+    "en": "Ordering on Fudgo becomes rewarding. Accumulate benefits from your purchases and redeem them at your favorite businesses. More consistency, more value for you."
+  },
+  "index.feat.loyalty.desc2": {
+    "es": "se vuelve recompensa. Acumula beneficios por tus compras y canjéalos en tus comercios preferidos. Más constancia, más valor para ti.",
+    "en": "becomes rewarding. Accumulate benefits from your purchases and redeem them at your favorite businesses. More consistency, more value for you."
+  },
+  "index.feat.tracking.title": {
+    "es": "Rastreo de pedido",
+    "en": "Order tracking"
+  },
+  "index.feat.tracking.desc": {
+    "es": "Saber en qué va tu orden en todo momento. Desde que el comercio confirma hasta que llega a tus manos, ves el avance del pedido con claridad y sin estar preguntando.",
+    "en": "Know where your order is at all times. From when the business confirms to when it arrives in your hands, you see the order progress clearly without having to ask."
+  },
+  "index.cta.title": {
+    "es": "Descarga la App",
+    "en": "Download the App"
+  },
+  "index.cta.subtitle": {
+    "es": "Disponible en iOS y Android",
+    "en": "Available on iOS and Android"
+  },
+  "benefits.user.price.title": {
+    "es": "Mismos precios que en el local",
+    "en": "Same prices as in-store"
+  },
+  "benefits.user.price.desc": {
+    "es": "Lo que cuesta en el local, cuesta aquí.",
+    "en": "What it costs in-store, it costs here."
+  },
+  "benefits.user.direct.title": {
+    "es": "Tu comida directo del comercio",
+    "en": "Your food direct from the business"
+  },
+  "benefits.user.direct.desc": {
+    "es": "Más humano y más directo al pedir.",
+    "en": "More human and more direct when ordering."
+  },
+  "benefits.user.multi.title": {
+    "es": "Multipedidos para todos",
+    "en": "Multi-orders for everyone"
+  },
+  "benefits.user.multi.desc": {
+    "es": "Varios comercios, un solo pago.",
+    "en": "Multiple businesses, one payment."
+  },
+  "benefits.user.reserve.title": {
+    "es": "Reserva mesa sin llamadas",
+    "en": "Reserve a table without calls"
+  },
+  "benefits.user.reserve.desc": {
+    "es": "Llegas y ya está listo.",
+    "en": "Arrive and it's ready."
+  },
+  "benefits.commerce.sell.title": {
+    "es": "Vendes directo a tu cliente",
+    "en": "Sell directly to your customer"
+  },
+  "benefits.commerce.sell.desc": {
+    "es": "Tu comercio es el protagonista. Mantienes la relación, la atención y la experiencia.",
+    "en": "Your business is the star. You keep the relationship, service and experience."
+  },
+  "benefits.commerce.price.title": {
+    "es": "Mantienes tus precios como en el local",
+    "en": "Keep your prices same as in-store"
+  },
+  "benefits.commerce.price.desc": {
+    "es": "Sin presión de inflar precios. Eso genera confianza y hace que el cliente vuelva.",
+    "en": "No pressure to inflate prices. That builds trust and brings customers back."
+  },
+  "benefits.commerce.control.title": {
+    "es": "Control real de tu operación",
+    "en": "Real control of your operations"
+  },
+  "benefits.commerce.control.desc": {
+    "es": "Administra menú, horarios, pedidos y promociones desde el dashboard.",
+    "en": "Manage menu, schedules, orders and promotions from the dashboard."
+  },
+  "benefits.commerce.delivery.title": {
+    "es": "Entregas más ordenadas con tu equipo",
+    "en": "More organized deliveries with your team"
+  },
+  "benefits.commerce.delivery.desc": {
+    "es": "Tus repartidores trabajan con pedidos asignados y confirmación de entrega.",
+    "en": "Your drivers work with assigned orders and delivery confirmation."
+  },
+  "pricing.recommended": {
+    "es": "Recomendado",
+    "en": "Recommended"
+  },
+  "pricing.perMonth": {
+    "es": "+ IVA / Mes",
+    "en": "+ Tax / Month"
+  },
+  "pricing.choose": {
+    "es": "Elegir",
+    "en": "Choose"
+  },
+  "about.title": {
+    "es": "Sobre Nosotros",
+    "en": "About Us"
+  },
+  "about.subtitle": {
+    "es": "Conectando comunidades con sus restaurantes favoritos",
+    "en": "Connecting communities with their favorite restaurants"
+  },
+  "about.history.title": {
+    "es": "Nuestra Historia",
+    "en": "Our Story"
+  },
+  "about.history.p1": {
+    "es": "nació de una visión simple pero poderosa: crear una plataforma que beneficie tanto a los consumidores como a los comercios locales, sin intermediarios que inflen precios o reduzcan márgenes.",
+    "en": "was born from a simple but powerful vision: to create a platform that benefits both consumers and local businesses, without middlemen that inflate prices or reduce margins."
+  },
+  "about.history.p2": {
+    "es": "Creemos que la tecnología debe facilitar las conexiones, no complicarlas. Por eso desarrollamos una solución integral que permite a los restaurantes mantener el control total de su operación mientras ofrecen a sus clientes una experiencia excepcional.",
+    "en": "We believe technology should facilitate connections, not complicate them. That's why we developed a comprehensive solution that allows restaurants to maintain full control of their operations while offering their customers an exceptional experience."
+  },
+  "about.values.title": {
+    "es": "Nuestros Valores",
+    "en": "Our Values"
+  },
+  "about.values.transparency": {
+    "es": "Transparencia",
+    "en": "Transparency"
+  },
+  "about.values.transparency.desc": {
+    "es": "Sin tarifas ocultas ni prácticas engañosas",
+    "en": "No hidden fees or deceptive practices"
+  },
+  "about.values.efficiency": {
+    "es": "Eficiencia",
+    "en": "Efficiency"
+  },
+  "about.values.efficiency.desc": {
+    "es": "Tecnología que simplifica, no complica",
+    "en": "Technology that simplifies, not complicates"
+  },
+  "about.values.community": {
+    "es": "Comunidad",
+    "en": "Community"
+  },
+  "about.values.community.desc": {
+    "es": "Apoyamos a los negocios locales",
+    "en": "We support local businesses"
+  },
+  "about.values.innovation": {
+    "es": "Innovación",
+    "en": "Innovation"
+  },
+  "about.values.innovation.desc": {
+    "es": "Mejora continua de nuestros servicios",
+    "en": "Continuous improvement of our services"
+  },
+  "about.mission.title": {
+    "es": "Nuestra Misión",
+    "en": "Our Mission"
+  },
+  "about.mission.desc": {
+    "es": "Empoderar a los comercios locales con tecnología de clase mundial, permitiéndoles competir en el mercado digital sin sacrificar sus márgenes ni perder el contacto directo con sus clientes.",
+    "en": "Empower local businesses with world-class technology, enabling them to compete in the digital market without sacrificing their margins or losing direct contact with their customers."
+  },
+  "about.why.title": {
+    "es": "¿Por qué elegir",
+    "en": "Why choose"
+  },
+  "about.why.r1": {
+    "es": "Sin comisiones abusivas",
+    "en": "No abusive commissions"
+  },
+  "about.why.r2": {
+    "es": "Relación directa con clientes",
+    "en": "Direct relationship with customers"
+  },
+  "about.why.r3": {
+    "es": "Control total de tu operación",
+    "en": "Full control of your operations"
+  },
+  "about.why.r4": {
+    "es": "Tecnología de punta",
+    "en": "Cutting-edge technology"
+  },
+  "about.why.r5": {
+    "es": "Soporte dedicado",
+    "en": "Dedicated support"
+  },
+  "about.why.r6": {
+    "es": "Precios justos para todos",
+    "en": "Fair prices for everyone"
+  },
+  "help.title": {
+    "es": "Estamos aquí para ayudarte",
+    "en": "We're here to help you"
+  },
+  "help.subtitle": {
+    "es": "¿Tienes dudas con tu pedido, tu comercio o un problema técnico?",
+    "en": "Have questions about your order, your business, or a technical issue?"
+  },
+  "help.supportMsg": {
+    "es": "Completa el formulario y nuestro equipo te apoyará lo antes posible.",
+    "en": "Complete the form and our team will assist you as soon as possible."
+  },
+  "help.type.title": {
+    "es": "¿Qué tipo de ayuda necesitas?",
+    "en": "What type of help do you need?"
+  },
+  "help.type.both": {
+    "es": "Ayuda para Comercios y Usuarios",
+    "en": "Help for Businesses and Users"
+  },
+  "help.type.desc": {
+    "es": "Crea un ticket de soporte y nuestro equipo te atenderá lo antes posible.",
+    "en": "Create a support ticket and our team will assist you as soon as possible."
+  },
+  "help.direct.title": {
+    "es": "¿Prefieres contactarnos directamente?",
+    "en": "Prefer to contact us directly?"
+  },
+  "help.email": {
+    "es": "Correo",
+    "en": "Email"
+  },
+  "help.email.desc": {
+    "es": "Soporte, consultas y ayuda general:",
+    "en": "Support, inquiries and general help:"
+  },
+  "help.phones": {
+    "es": "Teléfonos",
+    "en": "Phones"
+  },
+  "help.support": {
+    "es": "Soporte:",
+    "en": "Support:"
+  },
+  "help.sales": {
+    "es": "Comercialización:",
+    "en": "Sales:"
+  },
+  "help.whatsapp": {
+    "es": "WhatsApp Business",
+    "en": "WhatsApp Business"
+  },
+  "help.address": {
+    "es": "Dirección",
+    "en": "Address"
+  },
+  "aff.hero.badge": {
+    "es": "Comercio",
+    "en": "Business"
+  },
+  "aff.hero.slide1.l1": {
+    "es": "Pensándolo bien...",
+    "en": "On second thought..."
+  },
+  "aff.hero.slide1.l2": {
+    "es": "prefiero ganar más.",
+    "en": "I prefer earning more."
+  },
+  "aff.hero.slide2.l1": {
+    "es": "Pensándolo bien...",
+    "en": "On second thought..."
+  },
+  "aff.hero.slide2.l2": {
+    "es": "prefiero tener el control.",
+    "en": "I prefer having control."
+  },
+  "aff.hero.slide3.l1": {
+    "es": "Pensándolo bien...",
+    "en": "On second thought..."
+  },
+  "aff.hero.slide3.l2": {
+    "es": "prefiero comisiones justas.",
+    "en": "I prefer fair commissions."
+  },
+  "aff.hero.subtitle": {
+    "es": "La plataforma que te devuelve tus márgenes, tu control y tu relación con tus clientes.",
+    "en": "The platform that gives you back your margins, your control, and your relationship with your customers."
+  },
+  "aff.hero.contact": {
+    "es": "Contactar",
+    "en": "Contact"
+  },
+  "aff.hero.plans": {
+    "es": "Ver Planes",
+    "en": "View Plans"
+  },
+  "aff.why.title": {
+    "es": "¿Por qué",
+    "en": "Why"
+  },
+  "aff.why.subtitle": {
+    "es": "es la plataforma que te devuelve el control de tu negocio.",
+    "en": "is the platform that gives you back control of your business."
+  },
+  "aff.why.desc": {
+    "es": "Multiplataforma que te potencializa y tecnifica. Tú defines las reglas: precios justos, conexión directa con los clientes. La herramienta diseñada para hacerte crecer.",
+    "en": "Multi-platform that empowers and modernizes you. You set the rules: fair prices, direct connection with customers. The tool designed to help you grow."
+  },
+  "aff.why.canDo": {
+    "es": "puedes:",
+    "en": "you can:"
+  },
+  "aff.why.item1": {
+    "es": "Recuperas tus márgenes de ganancia.",
+    "en": "Recover your profit margins."
+  },
+  "aff.why.item2": {
+    "es": "Te conectas directamente con tus clientes.",
+    "en": "Connect directly with your customers."
+  },
+  "aff.why.item3": {
+    "es": "Controlas tus promociones y cupones.",
+    "en": "Control your promotions and coupons."
+  },
+  "aff.why.item4": {
+    "es": "Personalizas tu programa de lealtad.",
+    "en": "Customize your loyalty program."
+  },
+  "aff.why.item5": {
+    "es": "Recibes pagos modernos y seguros en menos de 48 horas.",
+    "en": "Receive modern and secure payments in less than 48 hours."
+  },
+  "aff.why.item6": {
+    "es": "Optimizas tus líneas de servicio (delivery, para llevar, mesa/QR).",
+    "en": "Optimize your service lines (delivery, takeout, table/QR)."
+  },
+  "aff.why.item7": {
+    "es": "Tienes el App Driver para tus motoristas.",
+    "en": "Get the Driver App for your riders."
+  },
+  "aff.why.item8": {
+    "es": "Accedes a estadísticas en tiempo real.",
+    "en": "Access real-time statistics."
+  },
+  "aff.why.item9": {
+    "es": "Operas con comisiones justas.",
+    "en": "Operate with fair commissions."
+  },
+  "aff.why.item10": {
+    "es": "Gestionas tu panel de control fácilmente.",
+    "en": "Manage your dashboard easily."
+  },
+  "aff.why.item11": {
+    "es": "Tecnificas tus operaciones (menos desorden, más control).",
+    "en": "Modernize your operations (less chaos, more control)."
+  },
+  "aff.why.item12": {
+    "es": "Integras tus redes sociales (Facebook, Instagram y WhatsApp).",
+    "en": "Integrate your social media (Facebook, Instagram and WhatsApp)."
+  },
+  "aff.why.cta": {
+    "es": "Afiliate",
+    "en": "Join"
+  },
+  "aff.badge.margins": {
+    "es": "+ Márgenes",
+    "en": "+ Margins"
+  },
+  "aff.badge.noCommissions": {
+    "es": "Sin comisiones",
+    "en": "No commissions"
+  },
+  "aff.badge.control": {
+    "es": "+ Control",
+    "en": "+ Control"
+  },
+  "aff.badge.yourBiz": {
+    "es": "Tu negocio",
+    "en": "Your business"
+  },
+  "aff.badge.growWith": {
+    "es": "Crece con...",
+    "en": "Grow with..."
+  },
+  "aff.benefits.title": {
+    "es": "Beneficios Detallados",
+    "en": "Detailed Benefits"
+  },
+  "aff.benefits.b1.title": {
+    "es": "Incrementa tus ventas sin perder márgenes",
+    "en": "Increase your sales without losing margins"
+  },
+  "aff.benefits.b1.desc": {
+    "es": "Aumenta tus pedidos y tu facturación manteniendo el control de tu rentabilidad.",
+    "en": "Increase your orders and revenue while maintaining control of your profitability."
+  },
+  "aff.benefits.b2.title": {
+    "es": "Dashboard administrativo completo",
+    "en": "Complete admin dashboard"
+  },
+  "aff.benefits.b2.desc": {
+    "es": "Gestiona tu operación desde un panel central con información clara y accionable.",
+    "en": "Manage your operations from a central panel with clear and actionable information."
+  },
+  "aff.benefits.b3.title": {
+    "es": "Pagos modernos y seguros",
+    "en": "Modern and secure payments"
+  },
+  "aff.benefits.b3.desc": {
+    "es": "Cobra de forma rápida y confiable con métodos de pago actuales y protegidos.",
+    "en": "Get paid quickly and reliably with current and protected payment methods."
+  },
+  "aff.benefits.b4.title": {
+    "es": "Base de datos de clientes",
+    "en": "Customer database"
+  },
+  "aff.benefits.b4.desc": {
+    "es": "Obtienes toda la información de tus clientes para conocerlos mejor y fidelizarlos.",
+    "en": "Get all your customer information to know them better and build loyalty."
+  },
+  "aff.benefits.b5.title": {
+    "es": "Menú digital interactivo",
+    "en": "Interactive digital menu"
+  },
+  "aff.benefits.b5.desc": {
+    "es": "Muestra tu menú de forma atractiva para que el cliente ordene fácil y sin fricción.",
+    "en": "Display your menu attractively so customers order easily and without friction."
+  },
+  "aff.benefits.b6.title": {
+    "es": "Fidelización automática",
+    "en": "Automatic loyalty"
+  },
+  "aff.benefits.b6.desc": {
+    "es": "Convierte compradores en clientes recurrentes con herramientas que retienen sin esfuerzo extra.",
+    "en": "Turn buyers into recurring customers with retention tools that work effortlessly."
+  },
+  "aff.benefits.b7.title": {
+    "es": "Estadísticas en tiempo real",
+    "en": "Real-time statistics"
+  },
+  "aff.benefits.b7.desc": {
+    "es": "Revisa métricas y rendimiento al instante para decidir mejor cada día.",
+    "en": "Review metrics and performance instantly to make better decisions every day."
+  },
+  "aff.benefits.b8.title": {
+    "es": "Operación fluida y sin complicaciones",
+    "en": "Smooth and hassle-free operations"
+  },
+  "aff.benefits.b8.desc": {
+    "es": "Simplifica pedidos, atención y entregas con un flujo diseñado para ahorrar tiempo.",
+    "en": "Simplify orders, service and deliveries with a flow designed to save time."
+  },
+  "aff.benefits.b9.title": {
+    "es": "Promociones y cupones",
+    "en": "Promotions and coupons"
+  },
+  "aff.benefits.b9.desc": {
+    "es": "Crea y activa ofertas en segundos para atraer clientes y aumentar la recompra.",
+    "en": "Create and activate offers in seconds to attract customers and boost repeat purchases."
+  },
+  "aff.benefits.b10.title": {
+    "es": "App Driver",
+    "en": "Driver App"
+  },
+  "aff.benefits.b10.desc": {
+    "es": "Una app dedicada para conductores que facilita la asignación, navegación y seguimiento de entregas en tiempo real.",
+    "en": "A dedicated app for drivers that facilitates assignment, navigation and real-time delivery tracking."
+  },
+  "aff.eco.title": {
+    "es": "Ecosistema",
+    "en": "Ecosystem"
+  },
+  "aff.eco.dashboard.title": {
+    "es": "Dashboard Administrativo",
+    "en": "Admin Dashboard"
+  },
+  "aff.eco.dashboard.desc": {
+    "es": "Control total de sucursales, menú, usuarios, promociones y estadísticas.",
+    "en": "Full control of branches, menu, users, promotions and statistics."
+  },
+  "aff.eco.userApp.title": {
+    "es": "App del Usuario",
+    "en": "User App"
+  },
+  "aff.eco.userApp.desc": {
+    "es": "Los clientes ordenan directamente sin intermediarios.",
+    "en": "Customers order directly without middlemen."
+  },
+  "aff.eco.driverApp.title": {
+    "es": "App del Motorista",
+    "en": "Driver App"
+  },
+  "aff.eco.driverApp.desc": {
+    "es": "Optimiza entregas, rutas y asignaciones.",
+    "en": "Optimize deliveries, routes and assignments."
+  },
+  "aff.channels.title": {
+    "es": "Canales Disponibles",
+    "en": "Available Channels"
+  },
+  "aff.channels.subtitle": {
+    "es": "Puedes activar o pausar tus canales de servicio cuando quieras, según tu operación y demanda.",
+    "en": "You can activate or pause your service channels whenever you want, based on your operations and demand."
+  },
+  "aff.channels.delivery": {
+    "es": "Domicilio",
+    "en": "Delivery"
+  },
+  "aff.channels.delivery.desc": {
+    "es": "Con nuestra App Driver controlas tu logística de entregas y llegas a clientes que prefieren comer en casa, con una operación más ordenada y eficiente.",
+    "en": "With our Driver App you control your delivery logistics and reach customers who prefer eating at home, with a more organized and efficient operation."
+  },
+  "aff.channels.takeout": {
+    "es": "Para Llevar",
+    "en": "Takeout"
+  },
+  "aff.channels.takeout.desc": {
+    "es": "Dale a tus clientes la opción de recoger en tu local de forma rápida y práctica, mientras tú gestionas pedidos con un flujo más ágil y claro.",
+    "en": "Give your customers the option to pick up at your location quickly and conveniently, while you manage orders with a more agile and clear flow."
+  },
+  "aff.channels.reservations": {
+    "es": "Reservas",
+    "en": "Reservations"
+  },
+  "aff.channels.reservations.desc": {
+    "es": "Permite que tus clientes reserven mesa en segundos y mejora la experiencia desde antes de llegar, con un proceso sencillo, seguro y efectivo.",
+    "en": "Let your customers reserve a table in seconds and improve the experience before arriving, with a simple, secure and effective process."
+  },
+  "aff.channels.dineIn": {
+    "es": "Venta en Mesa",
+    "en": "Dine-In"
+  },
+  "aff.channels.dineIn.desc": {
+    "es": "Convierte tu mesa en un punto de pedido y pago rápido y seguro: ahorra tiempo, reduce errores y mejora la satisfacción del cliente.",
+    "en": "Turn your table into a quick and secure ordering and payment point: save time, reduce errors and improve customer satisfaction."
+  },
+  "aff.promo.title": {
+    "es": "Funciones de promoción",
+    "en": "Promotion Features"
+  },
+  "aff.promo.subtitle": {
+    "es": "Crea promociones en minutos e incrementa tus ventas.",
+    "en": "Create promotions in minutes and increase your sales."
+  },
+  "aff.promo.events.title": {
+    "es": "EVENTOS Y PUBLICIDAD",
+    "en": "EVENTS & ADVERTISING"
+  },
+  "aff.promo.events.desc": {
+    "es": "Promociona eventos, lanzamientos y fechas clave para aumentar tu visibilidad, atraer más clientes y llenar tu local cuando más lo necesitas.",
+    "en": "Promote events, launches and key dates to increase your visibility, attract more customers and fill your venue when you need it most."
+  },
+  "aff.promo.coupons.title": {
+    "es": "CUPONES",
+    "en": "COUPONS"
+  },
+  "aff.promo.coupons.desc": {
+    "es": "Crea cupones con descuentos exclusivos para incentivar compras, premiar a tus clientes y aumentar la fidelidad.",
+    "en": "Create coupons with exclusive discounts to incentivize purchases, reward your customers and increase loyalty."
+  },
+  "aff.promo.loyalty.title": {
+    "es": "PROGRAMA DE LEALTAD",
+    "en": "LOYALTY PROGRAM"
+  },
+  "aff.promo.loyalty.desc": {
+    "es": "Recompensa a tus clientes por sus compras y convierte visitas ocasionales en clientes frecuentes, aumentando retención y lealtad.",
+    "en": "Reward your customers for their purchases and turn occasional visits into frequent customers, increasing retention and loyalty."
+  },
+  "aff.promo.promos.title": {
+    "es": "PROMOS",
+    "en": "PROMOS"
+  },
+  "aff.promo.promos.desc": {
+    "es": "Activa promociones cuando quieras para atraer nuevos clientes, impulsar productos específicos y aumentar tus ingresos.",
+    "en": "Activate promotions whenever you want to attract new customers, boost specific products and increase your revenue."
+  },
+  "aff.pricing.title": {
+    "es": "Planes y Precios",
+    "en": "Plans & Pricing"
+  },
+  "aff.pricing.subtitle": {
+    "es": "Elige el plan que mejor se adapte a tu negocio. Todos incluyen soporte técnico y actualizaciones.",
+    "en": "Choose the plan that best fits your business. All include technical support and updates."
+  },
+  "aff.plan.interactiveMenu": {
+    "es": "Menú interactivo",
+    "en": "Interactive menu"
+  },
+  "aff.plan.unlimitedUsers": {
+    "es": "Usuarios y roles ilimitados",
+    "en": "Unlimited users and roles"
+  },
+  "aff.plan.menuSections": {
+    "es": "Secciones de menú",
+    "en": "Menu sections"
+  },
+  "aff.plan.menuSectionsUnlimited": {
+    "es": "Ilimitadas",
+    "en": "Unlimited"
+  },
+  "aff.plan.paymentGateway": {
+    "es": "Pasarela de pago/POS digital",
+    "en": "Payment gateway/Digital POS"
+  },
+  "aff.plan.customerDB": {
+    "es": "Base de datos de clientes",
+    "en": "Customer database"
+  },
+  "aff.plan.realTimeStats": {
+    "es": "Estadísticas en tiempo real",
+    "en": "Real-time statistics"
+  },
+  "aff.plan.multichannel": {
+    "es": "Perfil multicanal (conectividad con tus redes)",
+    "en": "Multichannel profile (social media connectivity)"
+  },
+  "aff.plan.appDriver": {
+    "es": "App Driver",
+    "en": "Driver App"
+  },
+  "aff.plan.coupons": {
+    "es": "Cupones",
+    "en": "Coupons"
+  },
+  "aff.plan.loyaltyProgram": {
+    "es": "Programa de lealtad",
+    "en": "Loyalty program"
+  },
+  "aff.plan.promotions": {
+    "es": "Promociones",
+    "en": "Promotions"
+  },
+  "aff.plan.tableQR": {
+    "es": "Ventas en mesa (QR)",
+    "en": "Table sales (QR)"
+  },
+  "aff.plan.reservations": {
+    "es": "Reservaciones",
+    "en": "Reservations"
+  },
+  "aff.plan.geolocatedBranches": {
+    "es": "Sucursales geolocalizadas",
+    "en": "Geolocated branches"
+  },
+  "aff.form.title": {
+    "es": "Afíliate y empieza a ganar más",
+    "en": "Join and start earning more"
+  },
+  "aff.form.subtitle": {
+    "es": "Completa este formulario y un asesor comercial te contactará para activar tu negocio.",
+    "en": "Complete this form and a sales advisor will contact you to activate your business."
+  },
+  "aff.form.firstName": {
+    "es": "Nombre *",
+    "en": "First Name *"
+  },
+  "aff.form.lastName": {
+    "es": "Apellido *",
+    "en": "Last Name *"
+  },
+  "aff.form.businessName": {
+    "es": "Nombre del comercio *",
+    "en": "Business Name *"
+  },
+  "aff.form.businessType": {
+    "es": "Tipo de Comercio *",
+    "en": "Business Type *"
+  },
+  "aff.form.businessTypePlaceholder": {
+    "es": "Selecciona el tipo de comercio",
+    "en": "Select business type"
+  },
+  "aff.form.phone": {
+    "es": "Celular *",
+    "en": "Phone *"
+  },
+  "aff.form.country": {
+    "es": "País *",
+    "en": "Country *"
+  },
+  "aff.form.department": {
+    "es": "Departamento / Provincia *",
+    "en": "State / Province *"
+  },
+  "aff.form.departmentPlaceholder": {
+    "es": "Selecciona un departamento",
+    "en": "Select a state/province"
+  },
+  "aff.form.city": {
+    "es": "Ciudad *",
+    "en": "City *"
+  },
+  "aff.form.cityPlaceholder": {
+    "es": "Selecciona una ciudad",
+    "en": "Select a city"
+  },
+  "aff.form.customCity": {
+    "es": "Especificar ciudad *",
+    "en": "Specify city *"
+  },
+  "aff.form.plan": {
+    "es": "Plan de interés *",
+    "en": "Plan of Interest *"
+  },
+  "aff.form.planPlaceholder": {
+    "es": "Selecciona un plan",
+    "en": "Select a plan"
+  },
+  "aff.form.submit": {
+    "es": "AFÍLIATE",
+    "en": "JOIN NOW"
+  },
+  "aff.form.submitting": {
+    "es": "Enviando...",
+    "en": "Sending..."
+  },
+  "aff.form.terms": {
+    "es": "Al enviar este formulario, aceptas nuestros",
+    "en": "By submitting this form, you accept our"
+  },
+  "aff.form.termsLink": {
+    "es": "Términos y Condiciones",
+    "en": "Terms & Conditions"
+  },
+  "aff.btype.bares": {
+    "es": "Bares y pubs",
+    "en": "Bars and pubs"
+  },
+  "aff.btype.cafeterias": {
+    "es": "Cafeterías",
+    "en": "Coffee shops"
+  },
+  "aff.btype.carnicerias": {
+    "es": "Carnicerías y delicatessen",
+    "en": "Butcher shops and delis"
+  },
+  "aff.btype.catering": {
+    "es": "Catering y banquetes",
+    "en": "Catering and banquets"
+  },
+  "aff.btype.comidaRapida": {
+    "es": "Comida rápida",
+    "en": "Fast food"
+  },
+  "aff.btype.comidaSaludable": {
+    "es": "Comida saludable",
+    "en": "Healthy food"
+  },
+  "aff.btype.foodTrucks": {
+    "es": "Food trucks",
+    "en": "Food trucks"
+  },
+  "aff.btype.heladerias": {
+    "es": "Heladerías y postres",
+    "en": "Ice cream and desserts"
+  },
+  "aff.btype.mariscos": {
+    "es": "Mariscos",
+    "en": "Seafood"
+  },
+  "aff.btype.panaderias": {
+    "es": "Panaderías y reposterías",
+    "en": "Bakeries and pastry shops"
+  },
+  "aff.btype.pizzerias": {
+    "es": "Pizzerías",
+    "en": "Pizzerias"
+  },
+  "aff.btype.restaurantes": {
+    "es": "Restaurantes (típica e internacional)",
+    "en": "Restaurants (local and international)"
+  },
+  "aff.btype.supermercados": {
+    "es": "Supermercados y minisúper",
+    "en": "Supermarkets and mini-marts"
+  },
+  "aff.btype.sushi": {
+    "es": "Sushi y comida asiática",
+    "en": "Sushi and Asian food"
+  },
+  "aff.btype.tiendas": {
+    "es": "Tiendas de conveniencia",
+    "en": "Convenience stores"
+  },
+  "aff.planSelect.expand": {
+    "es": "Expand (Recomendado)",
+    "en": "Expand (Recommended)"
+  },
+  "aff.toast.error": {
+    "es": "Error al enviar el formulario. Intenta de nuevo.",
+    "en": "Error submitting the form. Please try again."
+  },
+  "aff.toast.connectionError": {
+    "es": "Error de conexión. Intenta de nuevo.",
+    "en": "Connection error. Please try again."
+  },
+  "aff.cta.title": {
+    "es": "Tu negocio merece ganar más. Afíliate hoy mismo.",
+    "en": "Your business deserves to earn more. Join today."
+  },
+  "aff.cta.button": {
+    "es": "Hablar con un asesor",
+    "en": "Talk to an advisor"
+  },
+  "terms.breadcrumb.home": {
+    "es": "Inicio",
+    "en": "Home"
+  },
+  "terms.breadcrumb.terms": {
+    "es": "Términos y Condiciones",
+    "en": "Terms & Conditions"
+  },
+  "terms.badge": {
+    "es": "Legal",
+    "en": "Legal"
+  },
+  "terms.title": {
+    "es": "Términos y Condiciones",
+    "en": "Terms & Conditions"
+  },
+  "terms.lastUpdate": {
+    "es": "Última actualización:",
+    "en": "Last updated:"
+  },
+  "terms.s1.title": {
+    "es": "1. Aceptación de los Términos",
+    "en": "1. Acceptance of Terms"
+  },
+  "terms.s1.p": {
+    "es": ", usted acepta estar sujeto a estos Términos y Condiciones. Si no está de acuerdo con alguna parte de estos términos, no debe utilizar nuestra aplicación.",
+    "en": ", you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you should not use our application."
+  },
+  "terms.s1.prefix": {
+    "es": "Al acceder y utilizar la aplicación",
+    "en": "By accessing and using the"
+  },
+  "terms.s2.title": {
+    "es": "2. Uso de la Aplicación",
+    "en": "2. Use of the Application"
+  },
+  "terms.s2.p": {
+    "es": "es una plataforma que conecta usuarios con restaurantes y comercios locales para realizar pedidos de comida y productos. Al utilizar nuestra aplicación, usted se compromete a:",
+    "en": "is a platform that connects users with local restaurants and businesses to place food and product orders. By using our application, you agree to:"
+  },
+  "terms.s2.li1": {
+    "es": "Proporcionar información precisa y actualizada durante el registro",
+    "en": "Provide accurate and up-to-date information during registration"
+  },
+  "terms.s2.li2": {
+    "es": "Mantener la confidencialidad de su cuenta y contraseña",
+    "en": "Maintain the confidentiality of your account and password"
+  },
+  "terms.s2.li3": {
+    "es": "Utilizar la aplicación únicamente con fines legítimos",
+    "en": "Use the application only for legitimate purposes"
+  },
+  "terms.s2.li4": {
+    "es": "No realizar actividades fraudulentas o que perjudiquen a otros usuarios",
+    "en": "Not engage in fraudulent activities or activities that harm other users"
+  },
+  "terms.s3.title": {
+    "es": "3. Precios y Pagos",
+    "en": "3. Prices and Payments"
+  },
+  "terms.s3.p": {
+    "es": "corresponden a los precios establecidos por cada comercio afiliado. No se agregan comisiones adicionales al precio del producto. Los métodos de pago disponibles se mostrarán durante el proceso de compra.",
+    "en": "correspond to the prices set by each affiliated business. No additional commissions are added to the product price. Available payment methods will be shown during the purchase process."
+  },
+  "terms.s3.prefix": {
+    "es": "Los precios mostrados en",
+    "en": "Prices shown on"
+  },
+  "terms.s4.title": {
+    "es": "4. Pedidos y Entregas",
+    "en": "4. Orders and Deliveries"
+  },
+  "terms.s4.p": {
+    "es": "son procesados directamente por los comercios afiliados. Los tiempos de entrega son estimados y pueden variar según la disponibilidad del comercio y condiciones externas.",
+    "en": "are processed directly by affiliated businesses. Delivery times are estimated and may vary depending on the business's availability and external conditions."
+  },
+  "terms.s4.prefix": {
+    "es": "Los pedidos realizados a través de",
+    "en": "Orders placed through"
+  },
+  "terms.s4.suffix": {
+    "es": "facilita la comunicación directa entre usuarios y comercios para garantizar una mejor experiencia.",
+    "en": "facilitates direct communication between users and businesses to ensure a better experience."
+  },
+  "terms.s5.title": {
+    "es": "5. Cancelaciones y Reembolsos",
+    "en": "5. Cancellations and Refunds"
+  },
+  "terms.s5.p": {
+    "es": "Las políticas de cancelación y reembolso son establecidas por cada comercio afiliado. Los usuarios deben contactar directamente con el comercio a través de la aplicación para solicitar cancelaciones o reportar problemas con sus pedidos.",
+    "en": "Cancellation and refund policies are set by each affiliated business. Users must contact the business directly through the application to request cancellations or report issues with their orders."
+  },
+  "terms.s6.title": {
+    "es": "6. Responsabilidad",
+    "en": "6. Liability"
+  },
+  "terms.s6.p": {
+    "es": "actúa como intermediario entre usuarios y comercios. No somos responsables de:",
+    "en": "acts as an intermediary between users and businesses. We are not responsible for:"
+  },
+  "terms.s6.li1": {
+    "es": "La calidad, preparación o contenido de los productos",
+    "en": "The quality, preparation or content of products"
+  },
+  "terms.s6.li2": {
+    "es": "Demoras en la entrega causadas por factores externos",
+    "en": "Delivery delays caused by external factors"
+  },
+  "terms.s6.li3": {
+    "es": "Disputas entre usuarios y comercios",
+    "en": "Disputes between users and businesses"
+  },
+  "terms.s6.li4": {
+    "es": "Información incorrecta proporcionada por los comercios",
+    "en": "Incorrect information provided by businesses"
+  },
+  "terms.s7.title": {
+    "es": "7. Propiedad Intelectual",
+    "en": "7. Intellectual Property"
+  },
+  "terms.s7.p": {
+    "es": ", incluyendo pero no limitándose a logotipos, diseños, textos, gráficos y software, son propiedad de la empresa o sus licenciantes y están protegidos por las leyes de propiedad intelectual.",
+    "en": ", including but not limited to logos, designs, texts, graphics and software, are the property of the company or its licensors and are protected by intellectual property laws."
+  },
+  "terms.s7.prefix": {
+    "es": "Todos los contenidos de la aplicación",
+    "en": "All content of the application"
+  },
+  "terms.s8.title": {
+    "es": "8. Privacidad de Datos",
+    "en": "8. Data Privacy"
+  },
+  "terms.s8.p": {
+    "es": "El uso de sus datos personales está regulado por nuestra Política de Privacidad. Al utilizar la aplicación, usted acepta el procesamiento de sus datos según lo establecido en dicha política.",
+    "en": "The use of your personal data is governed by our Privacy Policy. By using the application, you agree to the processing of your data as outlined in said policy."
+  },
+  "terms.s9.title": {
+    "es": "9. Modificaciones",
+    "en": "9. Modifications"
+  },
+  "terms.s9.p": {
+    "es": "Se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación en la aplicación. Es responsabilidad del usuario revisar periódicamente estos términos.",
+    "en": "We reserve the right to modify these Terms and Conditions at any time. Modifications will take effect immediately after publication in the application. It is the user's responsibility to periodically review these terms."
+  },
+  "terms.s10.title": {
+    "es": "10. Jurisdicción",
+    "en": "10. Jurisdiction"
+  },
+  "terms.s10.p": {
+    "es": "Estos Términos y Condiciones se rigen por las leyes de Honduras. Cualquier disputa relacionada con el uso de la aplicación será sometida a la jurisdicción de los tribunales de San Pedro Sula, Honduras.",
+    "en": "These Terms and Conditions are governed by the laws of Honduras. Any dispute related to the use of the application will be submitted to the jurisdiction of the courts of San Pedro Sula, Honduras."
+  },
+  "terms.s11.title": {
+    "es": "11. Contacto",
+    "en": "11. Contact"
+  },
+  "terms.s11.p": {
+    "es": "Para cualquier pregunta o inquietud sobre estos Términos y Condiciones, puede contactarnos en:",
+    "en": "For any questions or concerns about these Terms and Conditions, you can contact us at:"
+  },
+  "terms.s11.email": {
+    "es": "Email:",
+    "en": "Email:"
+  },
+  "terms.s11.location": {
+    "es": "Ubicación:",
+    "en": "Location:"
+  },
+  "privacy.badge": {
+    "es": "Privacidad",
+    "en": "Privacy"
+  },
+  "privacy.title": {
+    "es": "Políticas de Privacidad",
+    "en": "Privacy Policy"
+  },
+  "privacy.s1.title": {
+    "es": "1. Información que Recopilamos",
+    "en": "1. Information We Collect"
+  },
+  "privacy.s1.p": {
+    "es": "Recopilamos la siguiente información cuando usted utiliza nuestra aplicación:",
+    "en": "We collect the following information when you use our application:"
+  },
+  "privacy.s1.li1": {
+    "es": "Nombre completo, correo electrónico y número de teléfono al registrarse",
+    "en": "Full name, email address and phone number upon registration"
+  },
+  "privacy.s1.li2": {
+    "es": "Dirección de entrega proporcionada al realizar pedidos",
+    "en": "Delivery address provided when placing orders"
+  },
+  "privacy.s1.li3": {
+    "es": "Historial de pedidos y preferencias dentro de la aplicación",
+    "en": "Order history and preferences within the application"
+  },
+  "privacy.s1.li4": {
+    "es": "Datos de ubicación cuando usted autoriza el acceso a la misma",
+    "en": "Location data when you authorize access to it"
+  },
+  "privacy.s1.li5": {
+    "es": "Información del dispositivo y datos de uso de la aplicación",
+    "en": "Device information and application usage data"
+  },
+  "privacy.s2.title": {
+    "es": "2. Uso de la Información",
+    "en": "2. Use of Information"
+  },
+  "privacy.s2.p": {
+    "es": "Utilizamos su información personal para los siguientes fines:",
+    "en": "We use your personal information for the following purposes:"
+  },
+  "privacy.s2.li1": {
+    "es": "Procesar y gestionar sus pedidos de manera eficiente",
+    "en": "Process and manage your orders efficiently"
+  },
+  "privacy.s2.li2": {
+    "es": "Mejorar la experiencia del usuario y personalizar el contenido",
+    "en": "Improve user experience and personalize content"
+  },
+  "privacy.s2.li3": {
+    "es": "Enviar notificaciones sobre el estado de sus pedidos",
+    "en": "Send notifications about the status of your orders"
+  },
+  "privacy.s2.li4": {
+    "es": "Comunicar promociones, ofertas y novedades (con su consentimiento)",
+    "en": "Communicate promotions, offers and news (with your consent)"
+  },
+  "privacy.s2.li5": {
+    "es": "Garantizar la seguridad y prevenir actividades fraudulentas",
+    "en": "Ensure security and prevent fraudulent activities"
+  },
+  "privacy.s3.title": {
+    "es": "3. Compartir Información",
+    "en": "3. Sharing Information"
+  },
+  "privacy.s3.p": {
+    "es": "No vendemos ni alquilamos su información personal a terceros. Solo compartimos sus datos en los siguientes casos:",
+    "en": "We do not sell or rent your personal information to third parties. We only share your data in the following cases:"
+  },
+  "privacy.s3.li1": {
+    "es": "Con los comercios afiliados necesarios para completar su pedido (nombre, dirección de entrega, teléfono)",
+    "en": "With affiliated businesses necessary to complete your order (name, delivery address, phone)"
+  },
+  "privacy.s3.li2": {
+    "es": "Con proveedores de servicios que nos ayudan a operar la plataforma",
+    "en": "With service providers who help us operate the platform"
+  },
+  "privacy.s3.li3": {
+    "es": "Cuando sea requerido por ley o autoridades competentes",
+    "en": "When required by law or competent authorities"
+  },
+  "privacy.s4.title": {
+    "es": "4. Protección de Datos",
+    "en": "4. Data Protection"
+  },
+  "privacy.s4.p": {
+    "es": "Implementamos medidas de seguridad técnicas y organizativas para proteger su información personal contra acceso no autorizado, alteración, divulgación o destrucción. Sin embargo, ningún sistema de transmisión o almacenamiento de datos es completamente seguro.",
+    "en": "We implement technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure or destruction. However, no data transmission or storage system is completely secure."
+  },
+  "privacy.s5.title": {
+    "es": "5. Cookies y Tecnologías de Rastreo",
+    "en": "5. Cookies and Tracking Technologies"
+  },
+  "privacy.s5.p": {
+    "es": "Utilizamos cookies y tecnologías similares para mejorar su experiencia, analizar el uso de la aplicación y personalizar el contenido. Usted puede configurar su navegador para rechazar cookies, aunque esto podría afectar la funcionalidad de la aplicación.",
+    "en": "We use cookies and similar technologies to improve your experience, analyze application usage and personalize content. You can configure your browser to reject cookies, although this may affect the application's functionality."
+  },
+  "privacy.s6.title": {
+    "es": "6. Derechos del Usuario",
+    "en": "6. User Rights"
+  },
+  "privacy.s6.p": {
+    "es": "Usted tiene derecho a:",
+    "en": "You have the right to:"
+  },
+  "privacy.s6.li1": {
+    "es": "Acceder a sus datos personales almacenados en nuestra plataforma",
+    "en": "Access your personal data stored on our platform"
+  },
+  "privacy.s6.li2": {
+    "es": "Solicitar la corrección de información inexacta",
+    "en": "Request the correction of inaccurate information"
+  },
+  "privacy.s6.li3": {
+    "es": "Solicitar la eliminación de su cuenta y datos personales",
+    "en": "Request the deletion of your account and personal data"
+  },
+  "privacy.s6.li4": {
+    "es": "Retirar su consentimiento para el uso de sus datos en cualquier momento",
+    "en": "Withdraw your consent for the use of your data at any time"
+  },
+  "privacy.s6.li5": {
+    "es": "Solicitar la portabilidad de sus datos",
+    "en": "Request the portability of your data"
+  },
+  "privacy.s7.title": {
+    "es": "7. Retención de Datos",
+    "en": "7. Data Retention"
+  },
+  "privacy.s7.p": {
+    "es": "Conservamos su información personal mientras su cuenta esté activa o según sea necesario para proporcionarle nuestros servicios. Si solicita la eliminación de su cuenta, procederemos a eliminar sus datos en un plazo razonable, salvo que la ley exija su conservación.",
+    "en": "We retain your personal information while your account is active or as necessary to provide our services. If you request the deletion of your account, we will delete your data within a reasonable timeframe, unless the law requires its retention."
+  },
+  "privacy.s8.title": {
+    "es": "8. Menores de Edad",
+    "en": "8. Minors"
+  },
+  "privacy.s8.p": {
+    "es": "No está dirigida a menores de 18 años. No recopilamos intencionalmente información de menores. Si detectamos que hemos recopilado datos de un menor, procederemos a eliminarlos de inmediato.",
+    "en": "It is not intended for minors under 18 years of age. We do not intentionally collect information from minors. If we detect that we have collected data from a minor, we will immediately delete it."
+  },
+  "privacy.s9.title": {
+    "es": "9. Cambios en la Política",
+    "en": "9. Policy Changes"
+  },
+  "privacy.s9.p": {
+    "es": "Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento. Los cambios serán publicados en la aplicación y entrarán en vigor de manera inmediata. Le recomendamos revisar esta política periódicamente.",
+    "en": "We reserve the right to update this Privacy Policy at any time. Changes will be published in the application and will take effect immediately. We recommend reviewing this policy periodically."
+  },
+  "privacy.s10.title": {
+    "es": "10. Contacto",
+    "en": "10. Contact"
+  },
+  "privacy.s10.p": {
+    "es": "Para ejercer sus derechos o realizar consultas sobre esta Política de Privacidad, contáctenos en:",
+    "en": "To exercise your rights or make inquiries about this Privacy Policy, contact us at:"
+  },
+  "thanks.title": {
+    "es": "¡Gracias por tu interés!",
+    "en": "Thank you for your interest!"
+  },
+  "thanks.message": {
+    "es": "Hemos recibido tu solicitud de afiliación a",
+    "en": "We have received your affiliation request for"
+  },
+  "thanks.message2": {
+    "es": ". Un asesor comercial se pondrá en contacto contigo muy pronto para ayudarte a empezar.",
+    "en": ". A sales advisor will contact you very soon to help you get started."
+  },
+  "thanks.directContact": {
+    "es": "También puedes contactarnos directamente:",
+    "en": "You can also contact us directly:"
+  },
+  "thanks.whatsapp": {
+    "es": "WhatsApp Comercial",
+    "en": "Business WhatsApp"
+  },
+  "thanks.backHome": {
+    "es": "Volver al inicio",
+    "en": "Back to Home"
+  },
+  "notFound.title": {
+    "es": "Oops! Página no encontrada",
+    "en": "Oops! Page not found"
+  },
+  "notFound.backHome": {
+    "es": "Volver al inicio",
+    "en": "Return to Home"
+  },
+  "index.diff.chat.title": {
+    "es": "Chat directo con el comercio",
+    "en": "Direct chat with the business"
+  },
+  "index.diff.chat.desc": {
+    "es": "Comunícate directamente sin intermediarios",
+    "en": "Communicate directly without middlemen"
+  },
+  "index.diff.rewards.title": {
+    "es": "Recompensas y lealtad",
+    "en": "Rewards and loyalty"
+  },
+  "index.diff.rewards.desc": {
+    "es": "Gana puntos y obtén beneficios",
+    "en": "Earn points and get rewards"
+  },
+  "index.diff.reorder.title": {
+    "es": "Reordenar con un toque",
+    "en": "Reorder with a tap"
+  },
+  "index.diff.reorder.desc": {
+    "es": "Tu pedido favorito en segundos",
+    "en": "Your favorite order in seconds"
+  },
+  "index.diff.scheduled.title": {
+    "es": "Pedidos programados",
+    "en": "Scheduled orders"
+  },
+  "index.diff.scheduled.desc": {
+    "es": "Planifica tus comidas con anticipación",
+    "en": "Plan your meals ahead"
+  },
+  "index.diff.discover.title": {
+    "es": "Descubre nuevos lugares locales",
+    "en": "Discover new local places"
+  },
+  "index.diff.discover.desc": {
+    "es": "Explora la escena gastronómica local",
+    "en": "Explore the local food scene"
+  },
+  "index.diff.relationship.title": {
+    "es": "Relación directa con tus restaurantes favoritos",
+    "en": "Direct relationship with your favorite restaurants"
+  },
+  "index.diff.relationship.desc": {
+    "es": "Construye conexiones auténticas",
+    "en": "Build authentic connections"
+  },
+  "comingSoon.title": {
+    "es": "¡Muy Pronto!",
+    "en": "Coming Soon!"
+  },
+  "comingSoon.desc": {
+    "es": "FUDGO es la nueva forma de pedir comida: más humana, más directa, sin intermediarios. Conectamos a personas con sus restaurantes y comercios favoritos, con chat directo, promos exclusivas y entregas sin comisiones ocultas.",
+    "en": "FUDGO is the new way to order food: more human, more direct, no middlemen. We connect people with their favorite restaurants and businesses, with direct chat, exclusive promos, and deliveries with no hidden fees."
+  },
+  "comingSoon.days": {
+    "es": "Días",
+    "en": "Days"
+  },
+  "comingSoon.hours": {
+    "es": "Horas",
+    "en": "Hours"
+  },
+  "comingSoon.minutes": {
+    "es": "Min",
+    "en": "Min"
+  },
+  "comingSoon.seconds": {
+    "es": "Seg",
+    "en": "Sec"
+  },
+  "comingSoon.download": {
+    "es": "Descarga la app cuando estemos listos",
+    "en": "Download the app when we're ready"
+  }
+}
